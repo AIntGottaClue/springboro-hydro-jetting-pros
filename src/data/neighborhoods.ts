@@ -1,5 +1,5 @@
 export type Hood = { slug:string; name:string; h1:string; title:string; description:string; intro:string; sections:{h:string;ps:string[]}[]; faqs:{q:string;a:string}[]; related:string[]; sources:string[] };
-export const neighborhoods: Hood[] = [
+export const neighborhoods: Hood[] =  [
   {
     "slug": "historic-district",
     "name": "Historic District",
@@ -13,6 +13,13 @@ export const neighborhoods: Hood[] = [
         "ps": [
           "<a href=\"https://www.cityofspringboro.com/241/Historic-Preservation\" target=\"_blank\" rel=\"noopener noreferrer\">The city's historic preservation page</a> says Springboro has many buildings that date to or before its founding in 1815, most of them in a seven-block historic district on South Main Street (SR 73), south of Central Avenue. <a href=\"https://npgallery.nps.gov/AssetDetail/NRIS/99000914\" target=\"_blank\" rel=\"noopener noreferrer\">The National Park Service record for the Springboro Historic District</a> lists it roughly bounded by Main, East and Mill streets and Central Avenue.",
           "The city says an Architectural Review Board manages exterior changes to protected properties. That covers exteriors. It does not say what drain pipe is under a building, so ask about past repairs and any replaced sections."
+        ]
+      },
+      {
+        "h": "Which services should you ask about in the Historic District?",
+        "ps": [
+          "Ask what is blocking the line before asking for any method. If the answer is roots, <a href=\"/services/tree-root-intrusions/\">hydro jetting for tree roots</a> is the page to read, and if it is deposits, <a href=\"/services/mineral-and-scale-deposits/\">hydro jetting for mineral buildup</a> covers that case.",
+          "<a href=\"/services/severe-grease-and-sludge/\">Grease and sludge</a> and <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a> cover the two most common reasons a household calls, and <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> covers what happens on the job. The <a href=\"/neighborhood/farms-of-heatherwoode/\">Farms of Heatherwoode</a> page covers another part of Springboro."
         ]
       },
       {
@@ -66,6 +73,13 @@ export const neighborhoods: Hood[] = [
         ]
       },
       {
+        "h": "Which hydro jetting services come up in Farms of Heatherwoode?",
+        "ps": [
+          "A home in Farms of Heatherwoode with a drain that slows down again and again is the case <a href=\"/services/recurring-clogs-and-slow-drains/\">hydro jetting for recurring clogs and slow drains</a> walks through, and a kitchen line that backs up after cooking is the case for <a href=\"/services/severe-grease-and-sludge/\">hydro jetting for grease and sludge</a>.",
+          "If a line clears and then fails again, <a href=\"/services/tree-root-intrusions/\">hydro jetting for tree roots</a> explains how roots are found and what clearing them leaves unsolved. <a href=\"/guides/how-hydro-jetting-works/\">How hydro jetting works</a> describes the method itself. The <a href=\"/neighborhood/northampton/\">Northampton</a> page covers another part of Springboro."
+        ]
+      },
+      {
         "h": "What should homeowners know about the line?",
         "ps": [
           "The <a href=\"https://www.cityofspringboro.com/152/Water-Sewer-Trash\" target=\"_blank\" rel=\"noopener noreferrer\">city water, sewer and trash page</a> lists the utility office at 320 W Central Avenue and the phone number 937-748-9721, so a question about the public system can start there."
@@ -116,6 +130,13 @@ export const neighborhoods: Hood[] = [
         ]
       },
       {
+        "h": "What drain services do homeowners in Northampton ask about?",
+        "ps": [
+          "Start with the symptom. Water that drains slowly again and again points to <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a>, while scale or crust inside a line is covered under <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a>.",
+          "Once a line is clear, <a href=\"/services/preventative-maintenance/\">preventative hydro jetting</a> covers keeping it that way, and <a href=\"/guides/hydro-jetting-vs-snaking/\">hydro jetting vs snaking</a> compares the two methods if you are deciding. Back on the <a href=\"/\">Springboro hydro jetting page</a>, every service for Springboro is listed. The <a href=\"/neighborhood/clearcreek-reserve/\">Clearcreek Reserve</a> page covers another part of Springboro."
+        ]
+      },
+      {
         "h": "What should homeowners know about the line?",
         "ps": [
           "The <a href=\"https://www.cityofspringboro.com/152/Water-Sewer-Trash\" target=\"_blank\" rel=\"noopener noreferrer\">city water, sewer and trash page</a> lists the utility office at 320 W Central Avenue and the phone number 937-748-9721, so a question about the public system can start there."
@@ -163,6 +184,13 @@ export const neighborhoods: Hood[] = [
         "ps": [
           "<a href=\"https://www.buildclearcreek.com/clearcreek-reserve-west\" target=\"_blank\" rel=\"noopener noreferrer\">A developer page for Clearcreek Reserve West</a> describes large estate lots between the Heatherwoode golf course and the wooded Clear Creek, less than five minutes from historic Springboro. That is marketing copy, not a public record.",
           "Because the page does not say whether each lot is inside city limits, confirm with the city or county whether a given address is on public sewer before assuming it is. Longer private lines on larger lots are a reason to describe where the slow fixtures are."
+        ]
+      },
+      {
+        "h": "How do the services fit homes in Clearcreek Reserve?",
+        "ps": [
+          "Each service page answers one question. <a href=\"/services/severe-grease-and-sludge/\">Grease and sludge</a> is for kitchen lines that back up, <a href=\"/services/tree-root-intrusions/\">tree roots</a> is for lines where roots may have gotten in, and <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a> is for deposits that narrow a pipe over time.",
+          "If none of those sounds like your drain, <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a> is the broader page, and <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> explains what the work involves before you ask anyone to do it. The <a href=\"/neighborhood/historic-district/\">Historic District</a> page covers another part of Springboro."
         ]
       },
       {
