@@ -43,9 +43,7 @@ export const neighborhoods: Hood[] = [
     description: "Hydro jetting in Springboro's Historic District, OH: how 19th-century buildings shape drain line questions and how a cleaning gets planned. Call (877) 761-0283.",
     intro: "Springboro's historic district holds buildings from the city's early years. Building age is a reason to ask about the pipe, not an answer about it.",
     heroPs: [
-      "Hydro jetting in Historic District, Springboro OH starts with one honest fact: the buildings here are old, and the lines under them have lived several lives. The city's historic preservation page says many Springboro buildings date to or before the city's 1815 founding, most of them in a seven-block district on South Main Street, south of Central Avenue. The National Park Service record for the Springboro Historic District describes roughly the same ground, bounded by Main, East and Mill streets and Central Avenue.",
-      "A building that old has usually seen its plumbing repaired, rerouted or replaced in pieces. What is under any one property today depends on work nobody may have written down. That is why the useful question is not how old the building is. It is what the last inspection or repair found, and what the line is made of now.",
-      "Springboro's early years are well documented. The city was founded by the Quaker Wright family, and the Springboro Area Historical Society preserves the town's documented Underground Railroad history. That history is worth knowing on its own. For drain work, it simply means many local lines have been in the ground longer than most, and they deserve a careful look before any method is chosen."
+      "Hydro jetting in Springboro's Historic District can clear grease, scale and root buildup from drain lines serving older Main Street properties. Past repairs may have left a mix of pipe materials, so an inspection should guide the cleaning method. A cracked or weakened section needs a repair assessment, not just another cleaning."
     ],
     bodyH2: "Hydro Jetting for Historic District Properties",
     bodyPs: [
@@ -176,9 +174,7 @@ export const neighborhoods: Hood[] = [
     description: "Hydro jetting in Farms of Heatherwoode, Springboro OH: mature trees, family kitchens, association documents and how a cleaning gets planned. Call (877) 761-0283.",
     intro: "The Farms of Heatherwoode is a small, organized neighborhood. A shared set of rules can matter when you plan work on a home.",
     heroPs: [
-      "Hydro jetting in Farms of Heatherwoode, Springboro OH is usually about a neighborhood that has settled in. The association's own website describes a 163-home neighborhood with an active association and a management company, and it posts governing documents and architectural change request forms for residents. Homes here have had time for landscaping to mature, and mature landscaping and drain lines have a well-known relationship.",
-      "Trees that were saplings when the homes were built now spread real root systems, and roots look for moisture. Kitchens that have cooked thousands of family meals leave their own mark inside a line. Neither fact means something is wrong. They mean that when a drain slows in this neighborhood, there is usually a concrete, findable reason. That is good news for a homeowner: a findable reason is a fixable one, and the first step is simply describing what the drain is doing.",
-      "The association's posted documents are the place to check before any work that touches the exterior of a home. Drain cleaning happens inside the line, and none of the posted rules changes what is going on inside the pipe. Still, knowing where your documents stand is a good habit in a neighborhood this well organized."
+      "For slow drains in Farms of Heatherwoode, hydro jetting can remove grease and sludge that collect inside household drain lines. If roots are involved, an inspection can locate the entry point before cleaning. Jetting clears the obstruction but does not seal the opening that let roots in."
     ],
     bodyH2: "Hydro Jetting for Farms of Heatherwoode Properties",
     bodyPs: [
@@ -308,9 +304,7 @@ export const neighborhoods: Hood[] = [
     description: "Hydro jetting in Northampton, Springboro OH: why newer homes still clog in a growing subdivision near the schools, and how cleaning gets planned. Call (877) 761-0283.",
     intro: "Northampton is a newer subdivision near the Springboro schools. Newer homes still have drain questions, especially when the neighborhood keeps growing.",
     heroPs: [
-      "Hydro jetting in Northampton, Springboro OH happens against a backdrop of growth. A local newspaper report describes a planned 16-acre extension of the subdivision off South Main Street, just north of the Springboro High School and Junior High School campus, and says more than 600 new single-family houses have been built or are coming soon in Springboro and Clearcreek Township.",
-      "Newer construction changes the drain conversation rather than ending it. A recently built home can still clog, from construction-era debris left in a line, from a family kitchen finding its rhythm, or from early buildup in a busy household. Age does not rule a blockage in or out, which is why the symptom matters more than the build year. A slow drain in a new build feels wrong, but it is common enough, and it is usually simple to explain once someone looks.",
-      "The same report quotes the city manager on making sure water and sewer capacity keeps pace with growth. That planning belongs to the city. The line from your home to the main belongs to you, and it deserves the same attention whether the home is five years old or fifty. A newer home usually makes that attention easy to give: accessible cleanouts, uniform materials and a short repair history."
+      "Northampton's newer homes can still develop slow drains from kitchen grease, household buildup or debris left during construction. Hydro jetting can flush buildup from a sound drain line when an inspection shows it is the right method. Tell the crew which fixtures are affected and whether the problem started after moving in or recent work."
     ],
     bodyH2: "Hydro Jetting for Northampton Properties",
     bodyPs: [
@@ -438,9 +432,7 @@ export const neighborhoods: Hood[] = [
     description: "Hydro jetting in Clearcreek Reserve, Springboro OH: long laterals, estate lots, wooded ground near Clear Creek and how cleaning gets planned. Call (877) 761-0283.",
     intro: "Clearcreek Reserve is described as an estate-lot area near Heatherwoode Golf and Clear Creek. Larger lots can mean longer private lines.",
     heroPs: [
-      "Hydro jetting in Clearcreek Reserve, Springboro OH starts with the lots. A developer page for Clearcreek Reserve West describes large estate lots set between the Heatherwoode golf course and the wooded Clear Creek, less than five minutes from historic Springboro. That is marketing language, but the geography is real: bigger lots, longer runs to the street and a wooded creek corridor nearby.",
-      "Those features shape drain questions in practical ways. A longer private lateral has more footage where buildup can settle and more joints where roots can try. Trees along a wooded corridor do what trees do, which is send roots toward moisture. None of this means a problem is waiting. It means the questions worth asking are specific to the property. It also means early symptoms deserve attention, because a long line gives a problem more room to grow before it shows.",
-      "One question comes first here: whether a given address is on the public sewer at all. Confirm that with the city or county before assuming, because it decides who handles which part of any problem. The city's utility office at 320 W Central Avenue is the place to start for the public side of that question."
+      "Clearcreek Reserve's estate lots and wooded creek setting make drain-line access and possible root intrusion worth checking. Hydro jetting can clear grease, sludge and roots from a sound private line, but it cannot repair damaged pipe. Confirm whether the property uses public sewer or a septic system before planning the cleaning."
     ],
     bodyH2: "Hydro Jetting for Clearcreek Reserve Properties",
     bodyPs: [
