@@ -177,8 +177,8 @@ export const neighborhoods: Hood[] = [
     intro: "The Farms of Heatherwoode is a small, organized neighborhood. A shared set of rules can matter when you plan work on a home.",
     heroPs: [
       "Hydro jetting in Farms of Heatherwoode, Springboro OH is usually about a neighborhood that has settled in. The association's own website describes a 163-home neighborhood with an active association and a management company, and it posts governing documents and architectural change request forms for residents. Homes here have had time for landscaping to mature, and mature landscaping and drain lines have a well-known relationship.",
-      "Trees that were saplings when the homes were built now spread real root systems, and roots look for moisture. Kitchens that have cooked thousands of family meals leave their own mark inside a line. Neither fact means something is wrong. They mean that when a drain slows in this neighborhood, there is usually a concrete, findable reason.",
-      "The association's posted documents are the place to check before any work that touches the exterior of a home. Drain cleaning happens inside the line, but knowing where your documents stand is a good habit in a neighborhood this well organized."
+      "Trees that were saplings when the homes were built now spread real root systems, and roots look for moisture. Kitchens that have cooked thousands of family meals leave their own mark inside a line. Neither fact means something is wrong. They mean that when a drain slows in this neighborhood, there is usually a concrete, findable reason. That is good news for a homeowner: a findable reason is a fixable one, and the first step is simply describing what the drain is doing.",
+      "The association's posted documents are the place to check before any work that touches the exterior of a home. Drain cleaning happens inside the line, and none of the posted rules changes what is going on inside the pipe. Still, knowing where your documents stand is a good habit in a neighborhood this well organized."
     ],
     bodyH2: "Hydro Jetting for Farms of Heatherwoode Properties",
     bodyPs: [
@@ -309,8 +309,8 @@ export const neighborhoods: Hood[] = [
     intro: "Northampton is a newer subdivision near the Springboro schools. Newer homes still have drain questions, especially when the neighborhood keeps growing.",
     heroPs: [
       "Hydro jetting in Northampton, Springboro OH happens against a backdrop of growth. A local newspaper report describes a planned 16-acre extension of the subdivision off South Main Street, just north of the Springboro High School and Junior High School campus, and says more than 600 new single-family houses have been built or are coming soon in Springboro and Clearcreek Township.",
-      "Newer construction changes the drain conversation rather than ending it. A recently built home can still clog, from construction-era debris left in a line, from a family kitchen finding its rhythm, or from early buildup in a busy household. Age does not rule a blockage in or out, which is why the symptom matters more than the build year.",
-      "The same report quotes the city manager on making sure water and sewer capacity keeps pace with growth. That planning belongs to the city. The line from your home to the main belongs to you, and it deserves the same attention whether the home is five years old or fifty."
+      "Newer construction changes the drain conversation rather than ending it. A recently built home can still clog, from construction-era debris left in a line, from a family kitchen finding its rhythm, or from early buildup in a busy household. Age does not rule a blockage in or out, which is why the symptom matters more than the build year. A slow drain in a new build feels wrong, but it is common enough, and it is usually simple to explain once someone looks.",
+      "The same report quotes the city manager on making sure water and sewer capacity keeps pace with growth. That planning belongs to the city. The line from your home to the main belongs to you, and it deserves the same attention whether the home is five years old or fifty. A newer home usually makes that attention easy to give: accessible cleanouts, uniform materials and a short repair history."
     ],
     bodyH2: "Hydro Jetting for Northampton Properties",
     bodyPs: [
@@ -439,8 +439,8 @@ export const neighborhoods: Hood[] = [
     intro: "Clearcreek Reserve is described as an estate-lot area near Heatherwoode Golf and Clear Creek. Larger lots can mean longer private lines.",
     heroPs: [
       "Hydro jetting in Clearcreek Reserve, Springboro OH starts with the lots. A developer page for Clearcreek Reserve West describes large estate lots set between the Heatherwoode golf course and the wooded Clear Creek, less than five minutes from historic Springboro. That is marketing language, but the geography is real: bigger lots, longer runs to the street and a wooded creek corridor nearby.",
-      "Those features shape drain questions in practical ways. A longer private lateral has more footage where buildup can settle and more joints where roots can try. Trees along a wooded corridor do what trees do, which is send roots toward moisture. None of this means a problem is waiting. It means the questions worth asking are specific to the property.",
-      "One question comes first here: whether a given address is on the public sewer at all. Confirm that with the city or county before assuming, because it decides who handles which part of any problem."
+      "Those features shape drain questions in practical ways. A longer private lateral has more footage where buildup can settle and more joints where roots can try. Trees along a wooded corridor do what trees do, which is send roots toward moisture. None of this means a problem is waiting. It means the questions worth asking are specific to the property. It also means early symptoms deserve attention, because a long line gives a problem more room to grow before it shows.",
+      "One question comes first here: whether a given address is on the public sewer at all. Confirm that with the city or county before assuming, because it decides who handles which part of any problem. The city's utility office at 320 W Central Avenue is the place to start for the public side of that question."
     ],
     bodyH2: "Hydro Jetting for Clearcreek Reserve Properties",
     bodyPs: [
