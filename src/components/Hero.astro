@@ -2,7 +2,7 @@
 import { pageImage } from '../lib/pageImages';
 import RequestForm from './RequestForm.astro';
 import { u } from '../lib/utils';
-const { headline, intro, location, crumbs = [] } = Astro.props;
+const { headline, intro, paras = [], location, crumbs = [] } = Astro.props;
 const img = pageImage(headline);
 const noImg = ['Privacy', 'Terms'].includes(location);
 ---
@@ -17,6 +17,7 @@ const noImg = ['Privacy', 'Terms'].includes(location);
       )}
       <h1>{headline}</h1>
       <p class="hero-copy">{intro}</p>
+      {paras.map((para: string) => <p class="hero-copy">{para}</p>)}
       {!noImg && <img class="hero-img" src={u(img.src)} alt={img.alt} width="1200" height="675" loading="eager" decoding="async" fetchpriority="high" />}
       {!noImg && <p class="image-note">Illustrative image, not a photo of a local job.</p>}
     </div>
