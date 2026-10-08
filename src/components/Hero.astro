@@ -19,7 +19,6 @@ const noImg = ['Privacy', 'Terms'].includes(location);
       <p class="hero-copy">{intro}</p>
       {paras.map((para: string) => <p class="hero-copy">{para}</p>)}
       {!noImg && <img class="hero-img" src={u(img.src)} alt={img.alt} width="1200" height="675" loading="eager" decoding="async" fetchpriority="high" />}
-      {!noImg && <p class="image-note">Illustrative image, not a photo of a local job.</p>}
     </div>
     <RequestForm location={location} />
   </div>
